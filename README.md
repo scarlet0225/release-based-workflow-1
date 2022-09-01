@@ -150,9 +150,10 @@ Let's make a new pull request comparing the `release-v1.0` branch to the `main` 
 <!--Step 4-->
 <details id=4>
 <summary><h2>Step 4: Generate release notes and merge</h2></summary>
+<summary><h2>第四步:生成发布说明和合并</h2></summary>
 
-### Automatically generated release notes
-[Automatically generated release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes) provide an automated alternative to manually writing release notes for your GitHub releases. With automatically generated release notes, you can quickly generate an overview of the contents of a release. Automatically generated release notes include a list of merged pull requests, a list of contributors to the release, and a link to a full changelog. You can also customize your release notes once they are generated.
+### Automatically generated release notes自动生成的发布说明
+[Automatically generated release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes) provide an automated alternative to manually writing release notes for your GitHub releases. With automatically generated release notes, you can quickly generate an overview of the contents of a release. Automatically generated release notes include a list of merged pull requests, a list of contributors to the release, and a link to a full changelog. You can also customize your release notes once they are generated.自动生成的发布说明提供了一种自动替代方案，可以手动编写 GitHub 发布的发布说明。使用自动生成的发布说明，您可以快速生成发布内容的概述。自动生成的发布说明包括合并的拉请求列表、发布贡献者列表以及指向完整变更日志的链接。您还可以在发布说明生成后自定义它们。
 
 ### :keyboard: Activity: Generate release notes
 
